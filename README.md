@@ -9,19 +9,29 @@ The project involves data cleaning, exploratory data analysis (EDA), feature eng
 Travel companies often struggle to identify customers who are most likely to purchase a travel package. By analyzing customer data, we can build a predictive model that classifies whether a customer will purchase or not purchase a travel package.
 
 <h4>🔧 Technologies & Tools Used</h4>
+<ul>
+  <li>Programming Language: Python</li>
+  <li>Libraries:</li>
+  <ul>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>Matplotlib</li>
+    <li>Seaborn</li>
+    <li>Scikit-learn</li>
+  </ul>
+  <li>IDE: Jupyter Notebook</li>
+</ul>
 
-Programming Language: Python
 
-Libraries:
 
-Pandas
 
-NumPy
 
-Matplotlib
 
-Seaborn
 
-Scikit-learn
 
-IDE: Jupyter Notebook
+
+
+
+
+
+

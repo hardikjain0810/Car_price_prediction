@@ -35,6 +35,7 @@ After performing a RandomizedSearchCV to find the best parameters, the models we
 </ul>
 
 <b>XGBoost Regressor</b>
+<ul>
 <li>Test R2 Score: 0.8550</li>
 
 <li>Test RMSE: 330,411.0813</li>
@@ -42,7 +43,7 @@ After performing a RandomizedSearchCV to find the best parameters, the models we
 <li>Test MAE: 103,493.6172</li>
 
 <li>Best Parameters: n_estimators: 300, max_depth: 5, learning_rate: 0.1, colsample_bytree: 0.5.</li>
-
+</ul>
 Conclusion: The Random Forest Regressor is the superior model for this specific dataset, providing the highest accuracy for predicting used car prices.
 
 
